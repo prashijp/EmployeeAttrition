@@ -1,8 +1,7 @@
 ---
 title: "EmpAttrition"
-output: 
-  html_document: 
-    keep_md: yes
+date: "`r format(Sys.Date())`"
+output: github_document
 ---
 
 ### Load the dataset
