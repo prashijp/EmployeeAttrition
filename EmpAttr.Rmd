@@ -1,7 +1,6 @@
 ---
 title: "EmpAttrition"
-date: "`r format(Sys.Date())`"
-output: github_document
+output: html_document
 ---
 
 ### Load the dataset
