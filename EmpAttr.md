@@ -5,7 +5,7 @@ EmpAttrition
 ### Load the dataset
 
 ``` r
-data_dir <- "/Users/jeevarehakrishnaraj/Desktop/Springboard/EmployeeAttrition"
+data_dir <- "~/Desktop/Springboard/EmployeeAttrition"
 term_data <- read.csv(file.path(data_dir,"TermData_org.csv"),header = TRUE)
 MYdataset <- term_data
 str(MYdataset)
